@@ -1,0 +1,32 @@
+div
+{
+    height:300px;
+    width:100%;
+}
+
+#div1
+{
+    background-color: gray;
+}
+
+#div2
+{
+    background-image: url("https://wallpaperbrowse.com/media/images/background-18.jpg");
+}
+
+#div3
+{
+    position: absolute;
+    left: 0;
+    top: 600px;
+    background-image: url("https://s3.amazonaws.com/pikpsdnw/wp-content/uploads/2018/03/09112251/Free-Flyers-Background-PNG-999x999.png");
+}
+
+#div4
+{
+    position: absolute;
+    left: 0;
+    top: 600px;
+    background-color: red;
+    opacity: 0.3;    
+}
